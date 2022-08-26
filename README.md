@@ -4,7 +4,7 @@ Submitted by: **Jason Wong**
 
 **HelloWorld** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **3.5** hours spent in total
+Time spent: **4.5** hours spent in total
 
 ## Required Features
 
@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Button that can change the color of the text to magenta and cause a toast with message to appear.
 
 ## Video Walkthrough
 
@@ -33,8 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I had difficulties with pushing to Github through the terminal due to authorization issues. After searching up the issue, I found out that I had to use a token so I regenerated my token and put it in as the password which solved the issue. 
-
+I had difficulties with pushing to Github through the terminal due to authorization issues. After searching up the issue, I found out that I had to use a token so I regenerated my token and put it in as the password which solved the issue.
 ## License
 
     Copyright [2022] [Jason Wong]
