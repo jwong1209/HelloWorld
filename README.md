@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had difficulties with pushing to Github through the terminal due to authorization issues. After searching up the issue, I found out that I had to use a token so I regenerated my token and put it in as the password which solved the issue. 
 
 ## License
 
