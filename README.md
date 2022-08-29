@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [x] Button that can change the color of the text to magenta and cause a toast with message to appear.
-* [x] User can input name into text field so that when "Say Hello!" button is pressed, it will say hello to the inputted name. If text field is empty, it will say default hello message. 
+* [x] User can input name into text field so that when "Say Hello!" button is pressed, it will say hello to the inputted name. If text field is empty, it will say the default hello message. 
 
 ## Video Walkthrough
 
