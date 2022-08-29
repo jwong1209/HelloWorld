@@ -31,13 +31,13 @@ class MainActivity : AppCompatActivity() {
         button.setOnClickListener {
             Log.v("Helloworld", "Button clicked!")
             if(keyboard.text != null && keyboard.text.toString() != "") {
-                Toast.makeText(this, "Hello to you, " + keyboard.text + ".\n Nice to "
+                Toast.makeText(this, "Hello " + keyboard.text + ".\nNice to "
                         + "meet you.", Toast.LENGTH_SHORT).show()
                 keyboard.setText("")
                 hideSoftKeyboard(keyboard)
             }
             else {
-            Toast.makeText(this, "Hello to you too", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this, "Hello, nice to meet you.", Toast.LENGTH_SHORT).show()
             }
         }
 
