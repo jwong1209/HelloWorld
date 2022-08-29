@@ -2,6 +2,6 @@
     <string name="app_name">HelloWorld</string>
     <string name="jason_intro">Hello World! I\'m Jason and I would love to learn more about Android development. One of my favorite characters is Uncle Iroh from Avatar because of how kind and wise he is.</string>
     <string name="button_text">Say Hello!</string>
-    <string name="change_text_color">Change Text Color</string>
+    <string name="change_text_color">Change Color</string>
     <string name="askName">What is your name?</string>
 </resources>

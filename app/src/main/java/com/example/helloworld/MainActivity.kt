@@ -22,7 +22,6 @@ class MainActivity : AppCompatActivity() {
         val introText = findViewById<TextView>(R.id.introTextView)
         val keyboard = findViewById<TextInputEditText>(R.id.textKeyBoard)
 
-
         fun hideSoftKeyboard(view: View) {
             val imm =
                 getSystemService(Context.INPUT_METHOD_SERVICE) as InputMethodManager
